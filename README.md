@@ -5,3 +5,9 @@
 <p align="center">
   <img src="/images/license1.PNG">
 </p>
+<p align="center">
+  <img src="/images/license2.PNG">
+</p>
+<p align="center">
+  <img src="/images/license3.PNG">
+</p>
