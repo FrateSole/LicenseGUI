@@ -1,5 +1,5 @@
 # LicenseGUI
-### Easy-to-use python license validator. Made with PYQT5, frameless
+### Easy-to-use python license validator. Made with PYQT5, frameless. [Discord Server FOR HELP](https://discord.gg/jvbbNAk)
 ```
   > git clone https://github.com/FrateSole/LicenseGUI
   > cd LicenseGui
