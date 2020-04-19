@@ -1,8 +1,12 @@
 # LicenseGUI
 ### Easy-to-use python license validator. Made with PYQT5, frameless
+> git clone https://github.com/FrateSole/LicenseGUI
+> cd LicenseGui
+
 ```
-  > pip install -r requirements.txt
-  > pip3 install -r requirements.txt
+  > pip install -r requirements.txt --user
+  or
+  > pip3 install -r requirements.txt --user
 ``` 
 #### Just change the key validation into app.py in line 135 if you want :D
 
